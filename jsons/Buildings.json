@@ -1,16 +1,11 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
+		"name": "Spomenik",
+		"replaces": "Monument",
+		"uniqueTo": "Serbia",
+		"cost": 80,
 		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"maintenance": 1,
 	},
 	{
 		"name": "Breeders",
